@@ -2,6 +2,8 @@
     color: white;
     background: black;
     margin: 0px;
+    font-family: "Chakra petch", sans-serif;
+    margin-bottom: 100px;
  } 
  header{
    border-bottom:solid 2px rgb(42,122,228);
@@ -38,4 +40,3 @@
   .categoria h2 {
    color: rgb(42,122,228);
   }
-  
